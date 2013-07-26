@@ -1,0 +1,1 @@
+<h1><span style='background-color: #4D4D4D; color: #FFFFFF; margin: 5px; padding-left: 10px; padding-right: 10px;border-radius: 7px;'>Frequently Asked Questions</span></h1>
